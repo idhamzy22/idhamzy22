@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Idham Kholid Nur Azizi</h1>
+<div align="center">
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Ilham;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+</div>
+
 <h3 align="center">I am a student from Esa Unggul University studying informatics engineering skills</h3>
 <img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
