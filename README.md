@@ -1,9 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated README</title>
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+    <style>
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% {transform: translateY(0);} 
+            40% {transform: translateY(-30px);} 
+            60% {transform: translateY(-15px);}
+        }
+
+        .animated-header {
+            animation: fadeIn 2s ease-in-out;
+        }
+
+        #typed {
+            display: inline-block;
+            animation: bounce 2s infinite;
+        }
+    </style>
+</head>
+<body>
+
 <div align="center" class="animated-header">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Idham+💗+Candini;This+is..;..my+Github+Idhamzy22;" alt="Typing SVG"/>
-    </h1>
+    <h1 id="typed"></h1>
     <p>
-        <img src="termina-gh.gif" alt="Terminal GH GIF" />
+        <img src="https://media.giphy.com/media/l0HlKzpl3vZXSrIo0/giphy.gif" alt="Coding Animation" width="500"/>
     </p>
 </div>
 
@@ -56,25 +85,22 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
     </a> 
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase" />
-    </a> 
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />
+        <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
     </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <a href="https://grafana.com" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana" />
+    </a> 
+    <a href="https://heroku.com" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     </a> 
-    <a href="https://gohugo.io/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="hugo" />
-    </a> 
-    <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=ifttt&logoColor=white" alt="ifttt" />
-    </a> 
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="illustrator" />
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
     </a> 
     <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" alt="jasmine" />
@@ -122,3 +148,18 @@
         <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack" />
     </a> 
 </p>
+
+<script>
+    var options = {
+        strings: ["Hey.. I'm Idham 💗 Candini", "This is..", "..my Github Idhamzy22"],
+        typeSpeed: 60,
+        backSpeed: 30,
+        loop: true,
+        smartBackspace: true,
+        backDelay: 1500,
+    };
+    var typed = new Typed("#typed", options);
+</script>
+
+</body>
+</html>
