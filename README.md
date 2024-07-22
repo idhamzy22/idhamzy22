@@ -1,9 +1,9 @@
 <!-- Header Section with Typing Animation and Coding GIF -->
 <div align="center">
     <h1 class="animated-header">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=33FF33&center=true&vCenter=true&width=600&lines=Hey..+I'm+Idham+💗+Candini;Welcome+to+my+GitHub+Profile;Explore+my+projects+and+collaborations" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=33FF33&center=true&vCenter=true&width=800&lines=Hey...+I'm+Idham+💗+Candini;Welcome+to+my+GitHub+Profile;Explore+my+projects+and+collaborations" alt="Typing SVG"/>
     </h1>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF"/>
 </div>
 
 <!-- Introduction with Icons and Cleaner Layout -->
@@ -162,8 +162,13 @@
     60% { transform: translateY(-15px); }
 }
 
+@keyframes zoomIn {
+    from { transform: scale(0); }
+    to { transform: scale(1); }
+}
+
 .animated-header {
-    animation: fadeIn 2s ease-in-out;
+    animation: fadeIn 2s ease-in-out, zoomIn 1s ease-out;
 }
 
 #typed {
@@ -182,5 +187,6 @@
 
 .stats-card {
     margin: 10px;
+    animation: zoomIn 0.5s ease-out;
 }
 </style>
