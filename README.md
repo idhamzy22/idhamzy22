@@ -1,12 +1,12 @@
-<!-- Header Section with Typing Animation and Coding GIF -->
+<!-- Header Section with Advanced Typing Animation and 3D Coding GIF -->
 <div align="center">
     <h1 class="animated-header">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=33FF33&center=true&vCenter=true&width=800&lines=Hey...+I'm+Idham+💗+Candini;Welcome+to+my+GitHub+Profile;Explore+my+projects+and+collaborations" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=33FF33&center=true&vCenter=true&width=1000&lines=Hey...+I'm+Idham+💗+Candini;Welcome+to+my+GitHub+Profile;Explore+my+projects+and+collaborations" alt="Typing SVG"/>
     </h1>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF"/>
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" alt="3D Coding GIF"/>
 </div>
 
-<!-- Introduction with Icons and Cleaner Layout -->
+<!-- Introduction with Icons and Enhanced Layout -->
 <div align="center">
     <h3>I'm a student from Esa Unggul University studying Informatics Engineering.</h3>
     <p>
@@ -18,7 +18,7 @@
     </p>
 </div>
 
-<!-- Connect with Me Section with Hover Effects -->
+<!-- Connect with Me Section with Enhanced Hover Effects -->
 <h3 align="center">Connect with Me</h3>
 <p align="center">
     <a href="https://stackoverflow.com/users/23995899" target="_blank" rel="noopener noreferrer">
@@ -38,7 +38,7 @@
     </a>
 </p>
 
-<!-- Languages and Tools with Animation -->
+<!-- Languages and Tools with 3D Flip Animation -->
 <h3 align="center">Languages and Tools</h3>
 <p align="center" class="tools-container">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -136,7 +136,7 @@
     </a> 
 </p>
 
-<!-- GitHub Stats and Top Languages -->
+<!-- GitHub Stats and Top Languages with Flip Animation -->
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=idhamzy22&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" class="stats-card"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=idhamzy22&theme=radical" alt="GitHub Streak" width="48%" class="stats-card"/>
@@ -167,6 +167,11 @@
     to { transform: scale(1); }
 }
 
+@keyframes flip {
+    from { transform: rotateY(0); }
+    to { transform: rotateY(360deg); }
+}
+
 .animated-header {
     animation: fadeIn 2s ease-in-out, zoomIn 1s ease-out;
 }
@@ -178,6 +183,7 @@
 
 .tools-container a {
     margin: 0 10px;
+    animation: flip 2s infinite;
 }
 
 .hover-icon:hover {
