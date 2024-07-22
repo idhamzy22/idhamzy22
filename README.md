@@ -1,24 +1,18 @@
+<!-- Header with typing animation and coding GIF -->
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Idham+💗+Candini;This+is..;..my+Github+Idhamzy22;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=500&lines=Hey..+I'm+Idham+💗+Candini;Welcome+to+my+GitHub+Profile;Explore+my+projects+and+collaborations" alt="Typing SVG"/>
     </h1>
     <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500" alt="Coding GIF"/>
 </div>
 
-<h3 align="center">I am a student from Esa Unggul University studying informatics engineering skills</h3>
+<!-- Brief Introduction -->
+<h3 align="center">I'm a student from Esa Unggul University studying informatics engineering.</h3>
+<p align="center">🔭 Currently working on programming languages: PHP, C, C++, Python.<br> 🌱 Learning Front-end Development.<br> 👯 Looking to collaborate on exciting projects.<br> 🤝 Open to networking with full-stack developers.<br> 📫 Reach me at <strong>idhamzyy@gmail.com</strong>.</p>
 
-- 🔭 I’m currently working on **Programming languages ​​PHP, C, C++, Python**
-
-- 🌱 I’m currently learning **Front-end Development**
-
-- 👯 I’m looking to collaborate on **Programming projects**
-
-- 🤝 I’m looking for help with **Networking with full-stack developers**
-
-- 📫 How to reach me **idhamzyy@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Connect with me section -->
+<h3 align="center">Connect with me</h3>
+<p align="center">
     <a href="https://stackoverflow.com/users/23995899" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23995899" height="30" width="40"/>
     </a>
@@ -36,8 +30,9 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<!-- Languages and Tools -->
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
     </a> 
@@ -136,14 +131,38 @@
     </a> 
 </p>
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=idhamzy22&show_icons=true&locale=en" alt="idhamzy22" />
-</p>
+<!-- GitHub Stats and Top Languages -->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=idhamzy22&show_icons=true&theme=radical" alt="idhamzy22" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=idhamzy22&theme=radical" alt="idhamzy22" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idhamzy22&show_icons=true&theme=radical&layout=compact" alt="idhamzy22" />
+</div>
 
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=idhamzy22&" alt="idhamzy22" />
-</p>
+<!-- Footer with animations -->
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212750384-79a78f6b-1a10-48de-a4e5-7cfad3b2f6f4.gif" width="250" alt="Thank you"/>
+    <h3>Thanks for visiting! Come again soon!</h3>
+</div>
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idhamzy22&show_icons=true&locale=en&layout=compact" alt="idhamzy22" />
-</p>
+<!-- Styling for animations -->
+<style>
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+    40% { transform: translateY(-30px); }
+    60% { transform: translateY(-15px); }
+}
+
+.animated-header {
+    animation: fadeIn 2s ease-in-out;
+}
+
+#typed {
+    display: inline-block;
+    animation: bounce 2s infinite;
+}
+</style>
