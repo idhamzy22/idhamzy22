@@ -1,4 +1,4 @@
-<!-- Animated Header with Interactive Typing Effect and Coding GIF -->
+<!-- Header Section with Typing Animation and Coding GIF -->
 <div align="center">
     <h1 class="animated-header">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=33FF33&center=true&vCenter=true&width=600&lines=Hey..+I'm+Idham+💗+Candini;Welcome+to+my+GitHub+Profile;Explore+my+projects+and+collaborations" alt="Typing SVG"/>
@@ -6,20 +6,20 @@
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
 </div>
 
-<!-- Introduction with Icons -->
+<!-- Introduction with Icons and Cleaner Layout -->
 <div align="center">
     <h3>I'm a student from Esa Unggul University studying Informatics Engineering.</h3>
     <p>
-        <img src="https://img.icons8.com/ios-filled/50/000000/checked-checkbox.png" alt="checkbox"/> Currently working on programming languages: PHP, C, C++, Python.<br> 
-        <img src="https://img.icons8.com/ios-filled/50/000000/checked-checkbox.png" alt="checkbox"/> Learning Front-end Development.<br> 
-        <img src="https://img.icons8.com/ios-filled/50/000000/checked-checkbox.png" alt="checkbox"/> Looking to collaborate on exciting projects.<br> 
-        <img src="https://img.icons8.com/ios-filled/50/000000/checked-checkbox.png" alt="checkbox"/> Open to networking with full-stack developers.<br> 
-        <img src="https://img.icons8.com/ios-filled/50/000000/checked-checkbox.png" alt="checkbox"/> Reach me at <strong>idhamzyy@gmail.com</strong>.
+        <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Currently working on programming languages: PHP, C, C++, Python.<br> 
+        <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Learning Front-end Development.<br> 
+        <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Looking to collaborate on exciting projects.<br> 
+        <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Open to networking with full-stack developers.<br> 
+        <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Reach me at <strong>idhamzyy@gmail.com</strong>.
     </p>
 </div>
 
 <!-- Connect with Me Section with Hover Effects -->
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Connect with Me</h3>
 <p align="center">
     <a href="https://stackoverflow.com/users/23995899" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40" class="hover-icon"/>
