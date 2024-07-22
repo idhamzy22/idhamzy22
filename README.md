@@ -176,6 +176,11 @@
     animation: fadeIn 2s ease-in-out, zoomIn 1s ease-out;
 }
 
+#typed {
+    display: inline-block;
+    animation: bounce 2s infinite;
+}
+
 .tools-container a {
     margin: 0 10px;
     animation: flip 2s infinite;
