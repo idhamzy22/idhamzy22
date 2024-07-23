@@ -7,10 +7,9 @@
 </div>
 
 <!-- Introduction with Icons and Enhanced Layout -->
-<!-- Introduction with Icons and Enhanced Layout -->
 <div align="center">
-    <h3 class="animated-intro">I'm a student from Esa Unggul University studying Informatics Engineering.</h3>
-    <p class="animated-text">
+    <h3>I'm a student from Esa Unggul University studying Informatics Engineering.</h3>
+    <p>
         <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Currently working on programming languages: PHP, C, C++, Python.<br> 
         <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Learning Front-end Development.<br> 
         <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Looking to collaborate on exciting projects.<br> 
@@ -18,38 +17,6 @@
         <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Reach me at <strong>idhamzyy@gmail.com</strong>.
     </p>
 </div>
-
-<!-- Styling for animations and effects -->
-<style>
-@keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-}
-
-@keyframes slideIn {
-    from { transform: translateX(-100%); opacity: 0; }
-    to { transform: translateX(0); opacity: 1; }
-}
-
-@keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-}
-
-.animated-intro {
-    animation: fadeIn 2s ease-in-out, pulse 3s infinite;
-    font-size: 1.5em;
-    color: #333;
-}
-
-.animated-text {
-    animation: slideIn 2s ease-in-out, fadeIn 3s;
-    margin-top: 20px;
-    font-size: 1.2em;
-    color: #555;
-}
-</style>
 
 <!-- Connect with Me Section with Enhanced Hover Effects -->
 <h3 align="center">Connect with Me</h3>
