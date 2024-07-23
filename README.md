@@ -1,7 +1,7 @@
 <!-- Header Section with Advanced Typing Animation and 3D Coding GIF -->
 <div align="center">
     <h1 class="animated-header">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=33FF33&center=true&vCenter=true&width=1000&lines=Hey...+I'm+Idham+💗+Candini;Welcome+to+my+GitHub+Profile;Explore+my+projects+and+collaborations" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=33FF33&center=true&vCenter=true&width=1000&lines=Hey...+With+me+Idham+💗+Candini;Welcome+to+my+GitHub+idhamzy22+Profile;Explore+my+projects" alt="Typing SVG"/>
     </h1>
     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" alt="3D Coding GIF"/>
 </div>
