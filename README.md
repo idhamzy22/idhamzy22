@@ -148,3 +148,51 @@
     <img src="https://user-images.githubusercontent.com/74038190/212750384-79a78f6b-1a10-48de-a4e5-7cfad3b2f6f4.gif" width="250" alt="Thank you"/>
     <h3>Thanks for visiting! Come again soon!</h3>
 </div>
+
+<!-- Styling for animations and effects -->
+<style>
+keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+keyframes bounce {
+    0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+    40% { transform: translateY(-30px); }
+    60% { transform: translateY(-15px); }
+}
+
+keyframes zoomIn {
+    from { transform: scale(0); }
+    to { transform: scale(1); }
+}
+
+keyframes flip {
+    from { transform: rotateY(0); }
+    to { transform: rotateY(360deg); }
+}
+
+animated-header {
+    animation: fadeIn 2s ease-in-out, zoomIn 1s ease-out;
+}
+
+typed {
+    display: inline-block;
+    animation: bounce 2s infinite;
+}
+
+tools-container a {
+    margin: 0 10px;
+    animation: flip 2s infinite;
+}
+
+hover-icon:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s;
+}
+
+stats-card {
+    margin: 10px;
+    animation: zoomIn 0.5s ease-out;
+}
+</style>
