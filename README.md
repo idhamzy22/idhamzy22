@@ -89,99 +89,110 @@
     <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="Jasmine" width="40" height="40" class="tool-icon"/> 
     </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" class="tool-icon"/> 
-    </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" class="tool-icon"/> 
     </a> 
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" class="tool-icon"/> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" class="tool-icon"/> 
     </a> 
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" class="tool-icon"/> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" class="tool-icon"/> 
     </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" class="tool-icon"/> 
     </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" class="tool-icon"/> 
-    </a> 
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" class="tool-icon"/> 
-    </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" class="tool-icon"/> 
     </a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" class="tool-icon"/> 
     </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" class="tool-icon"/> 
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" class="tool-icon"/> 
     </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" class="tool-icon"/> 
     </a> 
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" class="tool-icon"/> 
+    </a> 
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" class="tool-icon"/> 
     </a> 
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="XD" width="40" height="40" class="tool-icon"/> 
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
+        <img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="40" height="40" class="tool-icon"/> 
     </a> 
 </p>
 
-<!-- Statistics Section with Consistent Styling -->
-<h3 align="center">Statistics</h3>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=idhamzy22&show_icons=true&locale=en" alt="idhamzy22" width="45%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=idhamzy22&" alt="idhamzy22" width="45%"/>
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idhamzy22&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="50%"/>
-</p>
+<!-- GitHub Stats and Top Languages with Flip Animation -->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=idhamzy22&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" class="stats-card"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=idhamzy22&theme=radical" alt="GitHub Streak" width="48%" class="stats-card"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idhamzy22&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="48%" class="stats-card"/>
+</div>
 
-<!-- Music Section with Spotify Integration -->
-<h3 align="center">Music</h3>
-<p align="center">
-    <img src="https://novatorem-idhamzy22.vercel.app/api/spotify" alt="Now Playing" width="50%"/>
-</p>
+<!-- Footer with animations -->
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212750384-79a78f6b-1a10-48de-a4e5-7cfad3b2f6f4.gif" width="250" alt="Thank you"/>
+    <h3>Thanks for visiting! Come again soon!</h3>
+</div>
 
-<!-- Style Section for Enhanced Visuals -->
+<!-- Styling for animations and effects -->
 <style>
-    .animated-header {
-        font-family: 'Fira Code', monospace;
-        font-size: 40px;
-        color: #33FF33;
-        animation: typing 4s steps(40, end), blink-caret .75s step-end infinite;
-    }
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
 
-    @keyframes typing {
-        from { width: 0; }
-        to { width: 100%; }
-    }
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+    40% { transform: translateY(-30px); }
+    60% { transform: translateY(-15px); }
+}
 
-    @keyframes blink-caret {
-        from, to { border-color: transparent; }
-        50% { border-color: #33FF33; }
-    }
+@keyframes zoomIn {
+    from { transform: scale(0); }
+    to { transform: scale(1); }
+}
 
-    .hover-icon:hover {
-        transform: scale(1.2);
-        transition: transform 0.3s ease-in-out;
-    }
+@keyframes flip {
+    from { transform: rotateY(0); }
+    to { transform: rotateY(360deg); }
+}
 
-    .tools-container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-    }
+.animated-header {
+    animation: fadeIn 2s ease-in-out, zoomIn 1s ease-out;
+}
 
-    .tool-icon {
-        margin: 10px;
-        transition: transform 0.3s;
-    }
+#typed {
+    display: inline-block;
+    animation: bounce 2s infinite;
+}
 
-    .tool-icon:hover {
-        transform: rotateY(180deg);
-    }
+.tools-container a {
+    margin: 0 10px;
+    animation: flip 2s infinite;
+}
+
+.hover-icon:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s;
+}
+
+.stats-card {
+    margin: 10px;
+    animation: zoomIn 0.5s ease-out;
+}
 </style>
