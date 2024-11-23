@@ -10,14 +10,19 @@
 </div>
 
 <!-- Introduction with Icons and Enhanced Layout -->
-<div align="center">
-    <h3>I'm a student from Esa Unggul University studying Informatics Engineering.</h3>
-    <p>
-        <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Currently working on programming languages: PHP, C, C++, Python.<br> 
-        <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Learning Front-end Development.<br> 
-        <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Looking to collaborate on exciting projects.<br> 
-        <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Open to networking with full-stack developers.<br> 
-        <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Reach me at <strong>idhamzyy@gmail.com</strong>.
+<div align="center" style="font-family: Arial, sans-serif; color: #1F618D;">
+    <h3 style="font-size: 28px; font-weight: bold; color: #2ECC71;">🏫 I'm a student from <span style="color: #3498DB;">Esa Unggul University</span> studying <span style="color: #F39C12;">Informatics Engineering</span> 🏫</h3>
+    <p style="font-size: 18px; line-height: 1.8; color: #34495E;">
+        <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
+        <span style="color: #16A085;">Currently working on programming languages: <strong style="color: #2ECC71;">PHP, C, C++, Python</strong>.</span><br>
+        <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
+        <span style="color: #16A085;">Learning <strong style="color: #8E44AD;">Front-end Development</strong>.</span><br>
+        <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
+        <span style="color: #16A085;">Looking to <strong style="color: #E67E22;">collaborate</strong> on exciting projects.</span><br>
+        <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
+        <span style="color: #16A085;">Open to networking with <strong style="color: #2980B9;">full-stack developers</strong>.</span><br>
+        <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
+        <span style="color: #16A085;">Reach me at <strong style="color: #C0392B;">idhamzyy@gmail.com</strong>.</span>
     </p>
 </div>
 
