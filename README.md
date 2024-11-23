@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="anjay.jpg" alt="anjay" width="500">
+    <img src="anjay.jpg" alt="anjay" width="400">
 </div>
 
 <!-- Header Section with Advanced Typing Animation and 3D Coding GIF -->
