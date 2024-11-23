@@ -7,7 +7,6 @@
     <h1 class="animated-header">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=33FF33&center=true&vCenter=true&width=1000&lines=With+me+Idham+💗+Candini;Welcome+to+my+GitHub+idhamzy22+Profile;Explore+my+projects,+Came+on!!" alt="Typing SVG"/>
     </h1>
-    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" alt="3D Coding GIF"/>
 </div>
 
 <!-- Introduction with Icons and Enhanced Layout -->
@@ -22,7 +21,7 @@
     </p>
 </div>
 
-<div align="center"> 
+<div align="center">
   <a href="mailto:idhamzyy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
@@ -141,6 +140,11 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
+</div>
+
+<div align="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" alt="3D Coding GIF"/>
+<br/><br/><br/>
 </div>
 
 <!-- GitHub Stats and Top Languages with Flip Animation -->
