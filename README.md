@@ -25,14 +25,17 @@
   <a href="mailto:idhamzyy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
-  <a href="https://instagram.com/idhammzy_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord" alt="Discord" />
   </a>
   <a href="https://youtube.com/@idhamzys?si=Eu1CGTHeDCtBbOZk" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-333333?style=for-the-badge&logo=youtube&logoColor=red" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-333333?style=for-the-badge&logo=youtube" alt="YouTube" />
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://stackoverflow.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-333333?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow" />
+  </a>
+  <a href="https://instagram.com/idhammzy_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
 </div>
 
