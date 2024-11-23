@@ -2,7 +2,6 @@
     <img src="anjay.jpg" alt="anjay" width="400">
 </div>
 
-
 <!-- Header Section with Advanced Typing Animation and 3D Coding GIF -->
 <div align="center">
     <h1 class="animated-header">
@@ -23,25 +22,20 @@
     </p>
 </div>
 
-<!-- Connect with Me Section with Enhanced Hover Effects -->
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-    <a href="https://stackoverflow.com/users/23995899" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40" class="hover-icon"/>
-    </a>
-    <a href="https://fb.com/dam rins" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" class="hover-icon"/>
-    </a>
-    <a href="https://instagram.com/idhammzy_" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" class="hover-icon"/>
-    </a>
-    <a href="https://www.youtube.com/c/idhamzys" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" class="hover-icon"/>
-    </a>
-    <a href="https://discord.gg/https://discord.com/invite/AZPgeHFq" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40" class="hover-icon"/>
-    </a>
-</p>
+<div align="center"> 
+  <a href="mailto:idhamzyy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/idhammzy_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://youtube.com/@idhamzys?si=Eu1CGTHeDCtBbOZk" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-333333?style=for-the-badge&logo=youtube&logoColor=red" alt="YouTube" />
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</div>
 
 <!-- Languages and Tools with 3D Flip Animation -->
 <h3 align="center">Languages and Tools</h3>
@@ -140,6 +134,14 @@
         <img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="40" height="40" class="tool-icon"/> 
     </a> 
 </p>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <!-- GitHub Stats and Top Languages with Flip Animation -->
 <div align="center">
