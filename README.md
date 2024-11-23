@@ -40,7 +40,7 @@
 </div>
 
 <!-- Languages and Tools with 3D Flip Animation -->
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3><br/>
 <p align="center">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=android" alt="Android" />
@@ -119,13 +119,11 @@
     </a>
     <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=vuetify" alt="Vuetify" />
-    </a>
+    </a><br/><br/><br/>
 </p>
-
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
