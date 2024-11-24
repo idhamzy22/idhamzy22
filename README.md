@@ -45,9 +45,6 @@
 <!-- Languages and Tools with 3D Flip Animation -->
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3><br/>
 <p align="center">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=android" alt="Android" />
-    </a>
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
     </a>
