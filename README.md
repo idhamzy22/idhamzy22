@@ -1,4 +1,4 @@
-![image alt](https://github.com/idhamzy22/idhamzy22/blob/437678c92c3b14d47953f52319d6856d6b73ad6d/anjayy.png)
+![image alt](https://github.com/idhamzy22/idhamzy22/blob/503c221b7c84008fc3ac87725a4351bdf5a1464c/anjayyy.gif)
 
 <!-- Header Section with Advanced Typing Animation and 3D Coding GIF -->
 <div align="center">
