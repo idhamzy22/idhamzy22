@@ -128,6 +128,12 @@
     </a>
     <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=vuetify" alt="Vuetify" />
+    <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+    </a>   
     </a><br/><br/><br/>
 </p>
 
