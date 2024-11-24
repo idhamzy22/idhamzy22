@@ -66,8 +66,8 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
     </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=react" alt="React" />
@@ -75,26 +75,26 @@
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
     </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
-    </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
     </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" />
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-    </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
     </a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+    </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
     </a>
     <a href="https://figma.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
