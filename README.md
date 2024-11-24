@@ -9,7 +9,7 @@
 
 <!-- Introduction with Icons and Enhanced Layout -->
 <div align="center" style="font-family: Arial, sans-serif; color: #1F618D;">
-    <h3 style="font-size: 28px; font-weight: bold; color: #2ECC71;">🏫 I'm a student from <span style="color: #3498DB;">Esa Unggul University</span> studying <span style="color: #F39C12;">Informatics Engineering</span> 🏫</h3>
+<h3 style="font-size: 28px; font-weight: bold; color: #2ECC71;">🏫 I am a student of <span style="color: #3498DB;">Informatics Engineering</span> at <span style="color: #F39C12;">Esa Unggul University</span> 🏫</h3>
     <p style="font-size: 18px; line-height: 1.8; color: #34495E;">
         <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
         <span style="color: #16A085;">Currently working on programming languages: <strong style="color: #2ECC71;">PHP, C, C++, Python</strong>.</span><br>
