@@ -139,11 +139,23 @@
 <br/><br/><br/>
 </div>
 
-<!-- GitHub Stats and Top Languages with Flip Animation -->
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=idhamzy22&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" class="stats-card"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=idhamzy22&theme=radical" alt="GitHub Streak" width="48%" class="stats-card"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idhamzy22&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="48%" class="stats-card"/>
+<!-- GitHub Stats Section -->
+<div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
+    <!-- Stats Cards -->
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+        <!-- GitHub Stats -->
+        <div style="flex: 1; min-width: 300px; max-width: 48%;">
+            <img src="https://github-readme-stats.vercel.app/api?username=idhamzy22&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+        </div>
+        <!-- Streak Stats -->
+        <div style="flex: 1; min-width: 300px; max-width: 48%;">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=idhamzy22&theme=radical" alt="GitHub Streak" style="width: 100%; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+        </div>
+    </div>
+    <!-- Top Languages -->
+    <div style="margin-top: 20px; max-width: 600px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idhamzy22&show_icons=true&theme=radical&layout=compact" alt="Top Languages" style="width: 100%; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+    </div>
 </div>
 
 <!-- Footer with animations -->
