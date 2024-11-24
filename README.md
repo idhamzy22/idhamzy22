@@ -37,8 +37,14 @@
   <a href="https://stackoverflow.com/" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-333333?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow" />
   </a>
+    <a href="https://www.tiktok.com/@idhamzyy?_t=8rfAi9eosQU&_r=1" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-333333?style=for-the-badge&logo=tiktok" alt="TikTok" />
+  </a>
   <a href="https://instagram.com/idhammzy_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram%20(Idham)-333333?style=for-the-badge&logo=instagram" alt="Instagram Idham" />
+  </a>
+  <a href="https://instagram.com/viandiniii" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram%20(Viandini)-333333?style=for-the-badge&logo=instagram" alt="Instagram Viandini" />
   </a>
 </div>
 
