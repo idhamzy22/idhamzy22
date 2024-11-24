@@ -33,8 +33,8 @@
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord" alt="Discord" />
   </a>
-  <a href="https://youtube.com/@idhamzys?si=Eu1CGTHeDCtBbOZk" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-333333?style=for-the-badge&logo=youtube" alt="YouTube" />
+  <a href="https://open.spotify.com/user/3145x4un6gqtst2m7bzq7hhhsdfi?si=Y0_Cx_NFTGObaB2mcymbSQ" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-333333?style=for-the-badge&logo=spotify" alt="Spotify" />
   </a>
   <a href="https://stackoverflow.com/" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-333333?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow" />
