@@ -37,6 +37,9 @@
   <a href="https://stackoverflow.com/" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-333333?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow" />
   </a>
+    <a href="https://www.facebook.com/idham.k.na?mibextid=ZbWKwL" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-333333?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook" />
+  </a>
     <a href="https://www.tiktok.com/@idhamzyy?_t=8rfAi9eosQU&_r=1" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-333333?style=for-the-badge&logo=tiktok" alt="TikTok" />
   </a>
