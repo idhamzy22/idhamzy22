@@ -12,13 +12,13 @@
 <h3 style="font-size: 28px; font-weight: bold; color: #2ECC71;">🏫 I am a student of <span style="color: #3498DB;">Informatics Engineering</span> at <span style="color: #F39C12;">Esa Unggul University</span> 🏫</h3>
     <p style="font-size: 18px; line-height: 1.8; color: #34495E;">
         <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
+        <span style="color: #16A085;">Reach me at <strong style="color: #C0392B;">Social Media</strong>.</span><br>
+        <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
         <span style="color: #16A085;">Learning <strong style="color: #8E44AD;">Front-end Development</strong>.</span><br>
         <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
         <span style="color: #16A085;">Looking to <strong style="color: #E67E22;">collaborate</strong> on exciting projects.</span><br>
         <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
-        <span style="color: #16A085;">Open to networking with <strong style="color: #2980B9;">Full-Stack Developers</strong>.</span><br>
-        <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
-        <span style="color: #16A085;">Reach me at <strong style="color: #C0392B;">Social Media</strong>.</span>
+        <span style="color: #16A085;">Open to networking with <strong style="color: #2980B9;">Full-Stack Developers</strong>.</span>
     </p>
 </div>
 
