@@ -16,7 +16,7 @@
         <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
         <span style="color: #16A085;">Learning <strong style="color: #8E44AD;">Front-end Development</strong>.</span><br>
         <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
-        <span style="color: #16A085;">Looking to <strong style="color: #E67E22;">collaborate</strong> on exciting projects.</span><br>
+        <span style="color: #16A085;">Looking to <strong style="color: #E67E22;">Collaborate</strong> on exciting projects.</span><br>
         <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
         <span style="color: #16A085;">Open to networking with <strong style="color: #2980B9;">Full-Stack Developers</strong>.</span>
     </p>
