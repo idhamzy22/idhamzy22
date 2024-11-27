@@ -16,9 +16,9 @@
         <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
         <span style="color: #16A085;">Looking to <strong style="color: #E67E22;">collaborate</strong> on exciting projects.</span><br>
         <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
-        <span style="color: #16A085;">Open to networking with <strong style="color: #2980B9;">full-stack developers</strong>.</span><br>
+        <span style="color: #16A085;">Open to networking with <strong style="color: #2980B9;">Full-Stack Developers</strong>.</span><br>
         <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
-        <span style="color: #16A085;">Reach me at <strong style="color: #C0392B;">idhamzyy@gmail.com</strong>.</span>
+        <span style="color: #16A085;">Reach me at <strong style="color: #C0392B;">Social Media</strong>.</span>
     </p>
 </div>
 
