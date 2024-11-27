@@ -87,9 +87,6 @@
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
     </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" />
-    </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
     </a>
@@ -133,7 +130,10 @@
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-    </a>   
+    </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
+    </a>
     </a><br/><br/><br/>
 </p>
 
