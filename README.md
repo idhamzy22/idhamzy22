@@ -54,8 +54,8 @@
 <!-- Languages and Tools with 3D Flip Animation -->
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3><br/>
 <p align="center">
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
@@ -72,6 +72,9 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
     </a>
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
+    </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
     </a>
@@ -87,9 +90,7 @@
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
     </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
-    </a>
+
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
     </a>
