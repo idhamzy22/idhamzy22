@@ -117,22 +117,22 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
     </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
-    </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
     </a>
     <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=vuetify" alt="Vuetify" />
     <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
+        <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
+    </a>
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
     </a>
     </a><br/><br/><br/>
 </p>
