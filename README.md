@@ -143,6 +143,12 @@
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" />
     </a>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=unity" alt="UnityScript" />
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
+    </a>
     </a><br/><br/><br/>
 </p>
 
