@@ -90,7 +90,6 @@
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
     </a>
-
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
     </a>
