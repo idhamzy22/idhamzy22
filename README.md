@@ -99,6 +99,12 @@
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
     </a>
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=go" alt="Go Lang" />
+    </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+    </a>
     <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
     </a>
@@ -133,6 +139,9 @@
     </a>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
+    </a>
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
     </a>
     </a><br/><br/><br/>
 </p>
