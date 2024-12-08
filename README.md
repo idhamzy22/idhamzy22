@@ -14,8 +14,6 @@
         <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
         <span style="color: #16A085;">Reach me at <strong style="color: #C0392B;">Social Media</strong>.</span><br>
         <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
-        <span style="color: #16A085;">Learning <strong style="color: #8E44AD;">Front-end Development</strong>.</span><br>
-        <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
         <span style="color: #16A085;">Open to networking with <strong style="color: #2980B9;">Full-Stack Developers</strong>.</span>
     </p>
 </div>
